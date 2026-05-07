@@ -1,4 +1,5 @@
 # JAEstrada97.github.io
-# Test
-# Test2
-# Test3
+
+<details> <summary>CLICK HERE TO SEE A SPECIAL MESSAGE!</summary>
+  BOO!
+ </details>
